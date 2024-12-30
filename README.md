@@ -4,7 +4,6 @@
 
 <div>
   <a href="https://iamhernan.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gray?logo=react"></a>
-  <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/traducir-español-yellow.svg"></a>
   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=i-am-hernan.i-am-hernan"></a>
 </div>
 <br>
