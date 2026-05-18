@@ -53,3 +53,15 @@ I am currently working as a solution architect with solid experience in React. I
   </tr>
 </table>
 <br>
+
+## Current Projects
+
+### Closed Source
+
+- 🧪 **[CheckoutLab](https://checkoutlab.dev)** - Low-code/more-code sandbox for rapidly prototyping Adyen payment integrations
+- 🔭 **[CheckoutScope](https://checkoutscope.com/)** - Scoping tool that helps solution architects capture merchant requirements and design integration solutions
+- 💳 **[Luffi](https://luffi.vercel.app)** - AI wallet that picks the optimal credit card for every purchase
+
+### Open Source
+
+- 🎧 **Forge** - AI audiobook app
